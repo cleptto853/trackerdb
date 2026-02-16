@@ -1,3 +1,1 @@
-import './db/categories.test.js';
-import './db/organizations.test.js';
-import './db/patterns.test.js';
+import './url-regression.test.ts';
