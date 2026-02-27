@@ -1,6 +1,6 @@
 {
   "name": "@ghostery/trackerdb",
-  "version": "1.0.684",
+  "version": "1.0.743",
   "description": "Ghostery Tracker Database",
   "type": "module",
   "scripts": {
@@ -41,29 +41,29 @@
   },
   "homepage": "https://github.com/ghostery/trackerdb#readme",
   "engines": {
-    "node": ">=18.0"
+    "node": ">=20.0"
   },
   "dependencies": {
-    "@ghostery/adblocker": "^2.12.2",
+    "@ghostery/adblocker": "^2.14.1",
     "enolib": "^0.8.2",
     "iso-3166-1-alpha-2": "^1.0.2",
-    "tldts-experimental": "^7.0.16"
+    "tldts-experimental": "^7.0.23"
   },
   "devDependencies": {
-    "@eslint/js": "^9.34.0",
-    "@types/node": "^22.14.0",
-    "@typescript-eslint/eslint-plugin": "^8.45.0",
-    "@typescript-eslint/parser": "^8.45.0",
-    "better-sqlite3": "^12.4.1",
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^25.2.3",
+    "@typescript-eslint/eslint-plugin": "^8.56.0",
+    "@typescript-eslint/parser": "^8.56.0",
+    "better-sqlite3": "^12.6.2",
     "chalk": "5.6.2",
-    "ejs": "3.1.10",
-    "eslint": "9.37.0",
+    "ejs": "4.0.1",
+    "eslint": "10.0.0",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-prettier": "^5.5.4",
-    "globals": "^16.4.0",
-    "prettier": "^3.6.2",
-    "tsx": "^4.20.6",
+    "eslint-plugin-prettier": "^5.5.5",
+    "globals": "^17.3.0",
+    "prettier": "^3.8.1",
+    "tsx": "^4.21.0",
     "typescript": "5.9.3",
-    "typescript-eslint": "^8.45.0"
+    "typescript-eslint": "^8.56.0"
   }
 }
